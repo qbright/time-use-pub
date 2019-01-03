@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.003edebb633ac6b0ba440c4f82ba2644.js"
+  "/precache-manifest.bd55765200b602f4e3b038d7c7d9391d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "time-use"});
